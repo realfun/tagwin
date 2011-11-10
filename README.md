@@ -15,13 +15,13 @@ Setup
 
 Usage
 -----
-  t.bat  - t xxx : tag current folder as xxx
-  g.bat  - g xxx : change folder to xxx
-  d.bat  - d xxx : delete tag
-  l.bat  - l     : list current folder tags
-  b.bat  - b     : back to last folder(after g jump)
-  dglt.bat       : print this help text
-  dglt.list      : data file, will be created to hold your tags
+    t.bat  - t xxx : tag current folder as xxx
+    g.bat  - g xxx : change folder to xxx
+    d.bat  - d xxx : delete tag
+    l.bat  - l     : list current folder tags
+    b.bat  - b     : back to last folder(after g jump)
+    dglt.bat       : print this help text
+    dglt.list      : data file, will be created to hold your tags
 
 Reference
 ---------
