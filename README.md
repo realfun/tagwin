@@ -3,14 +3,15 @@ tagwin - Windows Command Line Folder Tagging Utility
 
 Description
 -----------
- - Nickname your favorite folders and do quick switch with nicknames(tags)
+ - [bashmarks](https://github.com/huyng/bashmarks) for Windows command line
+ - Tag your favorite folders and do quick switch using tags
  - Enables quick/easy jumping between folders
  - Written in pure .bat files
  - Supports Windows XP/Vista/Win7
 
 Setup
 -----
- - put all scripts into a folder that is under system PATH
+ - Simple download and put all scripts into a folder that is under system PATH
 
 Usage
 -----
@@ -25,7 +26,7 @@ Usage
 Reference
 ---------
  - Inspired by bashmarks: https://github.com/huyng/bashmarks
- - My Chinese blog about this: http://2maomao.com/blog/win32-folder-tagging-scripts/
+ - I wrote [a blog post(in Chinese)](http://2maomao.com/blog/win32-folder-tagging-scripts/) about this
 
 Contact
 -------
